@@ -1,6 +1,6 @@
 # Accessible Modal Dialog
 
-This plugin was converted from a jQuery plugin originally written by [@scottohara](https://github.com/scottaohara/). You can view the original code in [Scott's Accessible Component Library](https://github.com/scottaohara/accessible-components).
+This plugin was converted from a jQuery plugin originally written by [@scottohara](https://github.com/scottaohara/). You can view the original code in [Scott's Accessible Component Library](https://github.com/scottaohara/accessible-components). Pretty much everything is the same, you just don't need jQuery.
 
 It was created to help you implement accessible modal dialogs with minimal work, because everyone is tired of using crappy UI plugins that damage the underlying experience. [Check out the demo](https://timwright12.github.io/a11y-modal/)
 
