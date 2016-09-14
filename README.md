@@ -56,6 +56,8 @@ Code and documentation are released under the MIT license.
 |---------------|--------|---------|-------------------|--------|
 | Basic Support | Latest | Latest  | 9+                | 5.1+   |
 
+Chrome and Firefox update too much to go back and test each version, if you need a certain on tested, just let me know. Or if there's a bug somewhere, feel free to file an issue and I'll fix it.
+
 ## Further Reading
 
 - [Using ARIA role=dialog to implement a modal dialog box](https://www.w3.org/WAI/GL/wiki/Using_ARIA_role%3Ddialog_to_implement_a_modal_dialog_box)
