@@ -1,4 +1,4 @@
-# a11y-modal
+# Accessible Modal Dialog
 
 This plugin was converted from a jQuery plugin originally written by [@scottohara](https://github.com/scottaohara/). You can view the original code in [Scott's Accessible Component Library](https://github.com/scottaohara/accessible-components).
 
