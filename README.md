@@ -56,7 +56,7 @@ Code and documentation are released under the MIT license.
 |---------------|--------|---------|-------------------|--------|
 | Basic Support | Latest | Latest  | 9+                | 5.1+   |
 
-### Further Reading
+## Further Reading
 
 - [Using ARIA role=dialog to implement a modal dialog box](https://www.w3.org/WAI/GL/wiki/Using_ARIA_role%3Ddialog_to_implement_a_modal_dialog_box)
 - [Managing Focus for Modal Dialogs](https://www.w3.org/WAI/GL/wiki/Managing_focus_for_modal_dialogs)
