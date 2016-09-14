@@ -52,6 +52,6 @@ Code and documentation are released under the MIT license.
 
 ## Browser support
 
-| Chrome | Firefox | Internet Explorer | Safari |
-|--------|--------|-----------------------------|
-| Latest | Latest  | 9+                | 5.1+   |
+| Feature       | Chrome | Firefox | Internet Explorer | Safari |
+|---------------|--------|---------|-------------------|--------|
+| Basic Support | Latest | Latest  | 9+                | 5.1+   |
